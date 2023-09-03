@@ -1,5 +1,5 @@
 # Numpycourse
-Большой бесплтатнй курс по Numpy
+Большой бесплтатнй курс по Numpy на Python 
 
 [https://t.me/data_analysis_ml](https://t.me/data_analysis_ml) -подписывайтесь на наш телеграм анализ данных на Python, где мы Data Science обучаем на практике. 
 
