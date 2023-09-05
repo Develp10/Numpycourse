@@ -1,9 +1,14 @@
-# Numpycourse
+# Numpy курс Pythob 
 Большой бесплатный курс по Numpy на Python для аналитиков данных.
 
-[https://t.me/data_analysis_ml](https://t.me/data_analysis_ml) -подписывайтесь на наш телеграм анализ данных на Python, где мы Data Science обучаем на практике. 
+[https://t.me/data_analysis_ml](https://t.me/data_analysis_ml) -подписывайтесь на наш телеграм анализ данных на Python, где мы бесплтано обучаем Data Science  на практике. 
 
 [https://t.me/addlist/2Ls-snqEeytkMDgy](https://t.me/addlist/2Ls-snqEeytkMDgy) - маст-хэв папка для всех, кто интересуется машинным обучением.
+
+[https://www.youtube.com/playlist?list=PLysMDSbb9Hcz3Gdi9oV-btohZ9zhths-r](https://www.youtube.com/playlist?list=PLysMDSbb9Hcz3Gdi9oV-btohZ9zhths-r) - Видео уроки курса для Дата саентистов
+
+
+[Упражнения по Numpy](https://uproger.com/prodvinutyj-numpy-ottachivajte-tryuki-s-shagami/)
 
 **Библиотека NumPy (Numerical Python)** в Python предоставляет функциональность для работы с числовыми данными, особенно с многомерными массивами. NumPy имеет мощные инструменты для выполнения матричных операций и операций линейной алгебры.
 
@@ -30,3 +35,5 @@
 NumPy является неотъемлемой частью экосистемы научных вычислений в Python и предоставляет мощные инструменты для работы с числовыми данными. Он может быть использован для решения различных задач, включая обработку данных, моделирование, машинное обучение и многое другое.
 
 [https://www.youtube.com/watch?v=47hGDgrYBOU](https://www.youtube.com/watch?v=47hGDgrYBOU)https://www.youtube.com/watch?v=47hGDgrYBOU -  - библиотека Numpy. Матрицы
+
+
